@@ -7,7 +7,7 @@
 Simply install to your project:
 
 ```bash
-sampctl package install DAKYSKYE/SA-MP-Protection
+sampctl package install medzvel/SA-MP-Protection
 ```
 
 Include in your code and begin using the library:
