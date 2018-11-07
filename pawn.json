@@ -1,0 +1,9 @@
+{
+	"user": "DAKYSKYE",
+	"repo": "SA-MP-Protection",
+	"entry": "test.pwn",
+	"output": "test.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib"
+	]
+}
